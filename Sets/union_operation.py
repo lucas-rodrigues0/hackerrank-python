@@ -1,5 +1,5 @@
 # Hacker Rank Union operation exercice
-# https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/py-set-union/problem
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
